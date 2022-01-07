@@ -1,0 +1,1277 @@
+[
+  {
+    "url": "PNG/AD@2x.png?raw=true",
+    "codeName": "AD",
+    "name": "Andorra"
+  },
+  {
+    "url": "PNG/AE@2x.png?raw=true",
+    "codeName": "AE",
+    "name": "United Arab Emirates"
+  },
+  {
+    "url": "PNG/AF@2x.png?raw=true",
+    "codeName": "AF",
+    "name": "Afghanistan"
+  },
+  {
+    "url": "PNG/AG@2x.png?raw=true",
+    "codeName": "AG",
+    "name": "Antigua & Barbuda"
+  },
+  {
+    "url": "PNG/AI@2x.png?raw=true",
+    "codeName": "AI",
+    "name": "Anguilla"
+  },
+  {
+    "url": "PNG/AL@2x.png?raw=true",
+    "codeName": "AL",
+    "name": "Albania"
+  },
+  {
+    "url": "PNG/AM@2x.png?raw=true",
+    "codeName": "AM",
+    "name": "Armenia"
+  },
+  {
+    "url": "PNG/AO@2x.png?raw=true",
+    "codeName": "AO",
+    "name": "Angola"
+  },
+  {
+    "url": "PNG/AR@2x.png?raw=true",
+    "codeName": "AR",
+    "name": "Argentina"
+  },
+  {
+    "url": "PNG/AS@2x.png?raw=true",
+    "codeName": "AS",
+    "name": "American Samoa"
+  },
+  {
+    "url": "PNG/AT@2x.png?raw=true",
+    "codeName": "AT",
+    "name": "Austria"
+  },
+  {
+    "url": "PNG/AU@2x.png?raw=true",
+    "codeName": "AU",
+    "name": "Australia"
+  },
+  {
+    "url": "PNG/AW@2x.png?raw=true",
+    "codeName": "AW",
+    "name": "Aruba"
+  },
+  {
+    "url": "PNG/AX@2x.png?raw=true",
+    "codeName": "AX",
+    "name": "Åland Islands"
+  },
+  {
+    "url": "PNG/AZ@2x.png?raw=true",
+    "codeName": "AZ",
+    "name": "Azerbaijan"
+  },
+  {
+    "url": "PNG/BA@2x.png?raw=true",
+    "codeName": "BA",
+    "name": "Bosnia & Herzegovina"
+  },
+  {
+    "url": "PNG/BB@2x.png?raw=true",
+    "codeName": "BB",
+    "name": "Barbados"
+  },
+  {
+    "url": "PNG/BD@2x.png?raw=true",
+    "codeName": "BD",
+    "name": "Bangladesh"
+  },
+  {
+    "url": "PNG/BE@2x.png?raw=true",
+    "codeName": "BE",
+    "name": "Belgium"
+  },
+  {
+    "url": "PNG/BF@2x.png?raw=true",
+    "codeName": "BF",
+    "name": "Burkina Faso"
+  },
+  {
+    "url": "PNG/BG@2x.png?raw=true",
+    "codeName": "BG",
+    "name": "Bulgaria"
+  },
+  {
+    "url": "PNG/BH@2x.png?raw=true",
+    "codeName": "BH",
+    "name": "Bahrain"
+  },
+  {
+    "url": "PNG/BI@2x.png?raw=true",
+    "codeName": "BI",
+    "name": "Burundi"
+  },
+  {
+    "url": "PNG/BJ@2x.png?raw=true",
+    "codeName": "BJ",
+    "name": "Benin"
+  },
+  {
+    "url": "PNG/BL@2x.png?raw=true",
+    "codeName": "BL",
+    "name": "St. Barthélemy"
+  },
+  {
+    "url": "PNG/BM@2x.png?raw=true",
+    "codeName": "BM",
+    "name": "Bermuda"
+  },
+  {
+    "url": "PNG/BN@2x.png?raw=true",
+    "codeName": "BN",
+    "name": "Brunei"
+  },
+  {
+    "url": "PNG/BO@2x.png?raw=true",
+    "codeName": "BO",
+    "name": "Bolivia"
+  },
+  {
+    "url": "PNG/BR@2x.png?raw=true",
+    "codeName": "BR",
+    "name": "Brazil"
+  },
+  {
+    "url": "PNG/BS@2x.png?raw=true",
+    "codeName": "BS",
+    "name": "Bahamas"
+  },
+  {
+    "url": "PNG/BT@2x.png?raw=true",
+    "codeName": "BT",
+    "name": "Bhutan"
+  },
+  {
+    "url": "PNG/BV@2x.png?raw=true",
+    "codeName": "BV",
+    "name": "Bouvet Island"
+  },
+  {
+    "url": "PNG/BW@2x.png?raw=true",
+    "codeName": "BW",
+    "name": "Botswana"
+  },
+  {
+    "url": "PNG/BY@2x.png?raw=true",
+    "codeName": "BY",
+    "name": "Belarus"
+  },
+  {
+    "url": "PNG/BZ@2x.png?raw=true",
+    "codeName": "BZ",
+    "name": "Belize"
+  },
+  {
+    "url": "PNG/CA@2x.png?raw=true",
+    "codeName": "CA",
+    "name": "Canada"
+  },
+  {
+    "url": "PNG/CC@2x.png?raw=true",
+    "codeName": "CC",
+    "name": "Cocos (Keeling) Islands"
+  },
+  {
+    "url": "PNG/CD@2x.png?raw=true",
+    "codeName": "CD",
+    "name": "Congo - Kinshasa"
+  },
+  {
+    "url": "PNG/CF@2x.png?raw=true",
+    "codeName": "CF",
+    "name": "Central African Republic"
+  },
+  {
+    "url": "PNG/CG@2x.png?raw=true",
+    "codeName": "CG",
+    "name": "Congo - Brazzaville"
+  },
+  {
+    "url": "PNG/CH@2x.png?raw=true",
+    "codeName": "CH",
+    "name": "Switzerland"
+  },
+  {
+    "url": "PNG/CI@2x.png?raw=true",
+    "codeName": "CI",
+    "name": "Côte d’Ivoire"
+  },
+  {
+    "url": "PNG/CK@2x.png?raw=true",
+    "codeName": "CK",
+    "name": "Cook Islands"
+  },
+  {
+    "url": "PNG/CL@2x.png?raw=true",
+    "codeName": "CL",
+    "name": "Chile"
+  },
+  {
+    "url": "PNG/CM@2x.png?raw=true",
+    "codeName": "CM",
+    "name": "Cameroon"
+  },
+  {
+    "url": "PNG/CN@2x.png?raw=true",
+    "codeName": "CN",
+    "name": "China"
+  },
+  {
+    "url": "PNG/CO@2x.png?raw=true",
+    "codeName": "CO",
+    "name": "Colombia"
+  },
+  {
+    "url": "PNG/CR@2x.png?raw=true",
+    "codeName": "CR",
+    "name": "Costa Rica"
+  },
+  {
+    "url": "PNG/CU@2x.png?raw=true",
+    "codeName": "CU",
+    "name": "Cuba"
+  },
+  {
+    "url": "PNG/CV@2x.png?raw=true",
+    "codeName": "CV",
+    "name": "Cape Verde"
+  },
+  {
+    "url": "PNG/CW@2x.png?raw=true",
+    "codeName": "CW",
+    "name": "Curaçao"
+  },
+  {
+    "url": "PNG/CX@2x.png?raw=true",
+    "codeName": "CX",
+    "name": "Christmas Island"
+  },
+  {
+    "url": "PNG/CY@2x.png?raw=true",
+    "codeName": "CY",
+    "name": "Cyprus"
+  },
+  {
+    "url": "PNG/CZ@2x.png?raw=true",
+    "codeName": "CZ",
+    "name": "Czech Republic"
+  },
+  {
+    "url": "PNG/DE@2x.png?raw=true",
+    "codeName": "DE",
+    "name": "Germany"
+  },
+  {
+    "url": "PNG/DJ@2x.png?raw=true",
+    "codeName": "DJ",
+    "name": "Djibouti"
+  },
+  {
+    "url": "PNG/DK@2x.png?raw=true",
+    "codeName": "DK",
+    "name": "Denmark"
+  },
+  {
+    "url": "PNG/DM@2x.png?raw=true",
+    "codeName": "DM",
+    "name": "Dominica"
+  },
+  {
+    "url": "PNG/DO@2x.png?raw=true",
+    "codeName": "DO",
+    "name": "Dominican Republic"
+  },
+  {
+    "url": "PNG/DZ@2x.png?raw=true",
+    "codeName": "DZ",
+    "name": "Algeria"
+  },
+  {
+    "url": "PNG/EC@2x.png?raw=true",
+    "codeName": "EC",
+    "name": "Ecuador"
+  },
+  {
+    "url": "PNG/EE@2x.png?raw=true",
+    "codeName": "EE",
+    "name": "Estonia"
+  },
+  {
+    "url": "PNG/EG@2x.png?raw=true",
+    "codeName": "EG",
+    "name": "Egypt"
+  },
+  {
+    "url": "PNG/ER@2x.png?raw=true",
+    "codeName": "ER",
+    "name": "Eritrea"
+  },
+  {
+    "url": "PNG/ES@2x.png?raw=true",
+    "codeName": "ES",
+    "name": "Spain"
+  },
+  {
+    "url": "PNG/ET@2x.png?raw=true",
+    "codeName": "ET",
+    "name": "Ethiopia"
+  },
+  {
+    "url": "PNG/EU@2x.png?raw=true",
+    "codeName": "EU",
+    "name": "European Union"
+  },
+  {
+    "url": "PNG/FI@2x.png?raw=true",
+    "codeName": "FI",
+    "name": "Finland"
+  },
+  {
+    "url": "PNG/FJ@2x.png?raw=true",
+    "codeName": "FJ",
+    "name": "Fiji"
+  },
+  {
+    "url": "PNG/FK@2x.png?raw=true",
+    "codeName": "FK",
+    "name": "Falkland Islands"
+  },
+  {
+    "url": "PNG/FM@2x.png?raw=true",
+    "codeName": "FM",
+    "name": "Micronesia"
+  },
+  {
+    "url": "PNG/FO@2x.png?raw=true",
+    "codeName": "FO",
+    "name": "Faroe Islands"
+  },
+  {
+    "url": "PNG/FR@2x.png?raw=true",
+    "codeName": "FR",
+    "name": "France"
+  },
+  {
+    "url": "PNG/GA@2x.png?raw=true",
+    "codeName": "GA",
+    "name": "Gabon"
+  },
+  {
+    "url": "PNG/GB@2x.png?raw=true",
+    "codeName": "GB",
+    "name": "United Kingdom"
+  },
+  {
+    "url": "PNG/GB-ENG@2x.png?raw=true",
+    "codeName": "GB-ENG",
+    "name": "England"
+  },
+  {
+    "url": "PNG/GB-NIR@2x.png?raw=true",
+    "codeName": "GB-NIR",
+    "name": "Northern Ireland"
+  },
+  {
+    "url": "PNG/GB-SCT@2x.png?raw=true",
+    "codeName": "GB-SCT",
+    "name": "Scotland"
+  },
+  {
+    "url": "PNG/GB-WLS@2x.png?raw=true",
+    "codeName": "GB-WLS",
+    "name": "Wales"
+  },
+  {
+    "url": "PNG/GB-ZET@2x.png?raw=true",
+    "codeName": "GB-ZET",
+    "name": "Shetland"
+  },
+  {
+    "url": "PNG/GD@2x.png?raw=true",
+    "codeName": "GD",
+    "name": "Grenada"
+  },
+  {
+    "url": "PNG/GE@2x.png?raw=true",
+    "codeName": "GE",
+    "name": "Georgia"
+  },
+  {
+    "url": "PNG/GF@2x.png?raw=true",
+    "codeName": "GF",
+    "name": "French Guiana"
+  },
+  {
+    "url": "PNG/GG@2x.png?raw=true",
+    "codeName": "GG",
+    "name": "Guernsey"
+  },
+  {
+    "url": "PNG/GH@2x.png?raw=true",
+    "codeName": "GH",
+    "name": "Ghana"
+  },
+  {
+    "url": "PNG/GI@2x.png?raw=true",
+    "codeName": "GI",
+    "name": "Gibraltar"
+  },
+  {
+    "url": "PNG/GL@2x.png?raw=true",
+    "codeName": "GL",
+    "name": "Greenland"
+  },
+  {
+    "url": "PNG/GM@2x.png?raw=true",
+    "codeName": "GM",
+    "name": "Gambia"
+  },
+  {
+    "url": "PNG/GN@2x.png?raw=true",
+    "codeName": "GN",
+    "name": "Guinea"
+  },
+  {
+    "url": "PNG/GP@2x.png?raw=true",
+    "codeName": "GP",
+    "name": "Guadeloupe"
+  },
+  {
+    "url": "PNG/GQ@2x.png?raw=true",
+    "codeName": "GQ",
+    "name": "Equatorial Guinea"
+  },
+  {
+    "url": "PNG/GR@2x.png?raw=true",
+    "codeName": "GR",
+    "name": "Greece"
+  },
+  {
+    "url": "PNG/GS@2x.png?raw=true",
+    "codeName": "GS",
+    "name": "So. Georgia & So. Sandwich Isl."
+  },
+  {
+    "url": "PNG/GT@2x.png?raw=true",
+    "codeName": "GT",
+    "name": "Guatemala"
+  },
+  {
+    "url": "PNG/GU@2x.png?raw=true",
+    "codeName": "GU",
+    "name": "Guam"
+  },
+  {
+    "url": "PNG/GW@2x.png?raw=true",
+    "codeName": "GW",
+    "name": "Guinea-Bissau"
+  },
+  {
+    "url": "PNG/GY@2x.png?raw=true",
+    "codeName": "GY",
+    "name": "Guyana"
+  },
+  {
+    "url": "PNG/HK@2x.png?raw=true",
+    "codeName": "HK",
+    "name": "Hong Kong (China)"
+  },
+  {
+    "url": "PNG/HM@2x.png?raw=true",
+    "codeName": "HM",
+    "name": "Heard & McDonald Islands"
+  },
+  {
+    "url": "PNG/HN@2x.png?raw=true",
+    "codeName": "HN",
+    "name": "Honduras"
+  },
+  {
+    "url": "PNG/HR@2x.png?raw=true",
+    "codeName": "HR",
+    "name": "Croatia"
+  },
+  {
+    "url": "PNG/HT@2x.png?raw=true",
+    "codeName": "HT",
+    "name": "Haiti"
+  },
+  {
+    "url": "PNG/HU@2x.png?raw=true",
+    "codeName": "HU",
+    "name": "Hungary"
+  },
+  {
+    "url": "PNG/ID@2x.png?raw=true",
+    "codeName": "ID",
+    "name": "Indonesia"
+  },
+  {
+    "url": "PNG/IE@2x.png?raw=true",
+    "codeName": "IE",
+    "name": "Ireland"
+  },
+  {
+    "url": "PNG/IL@2x.png?raw=true",
+    "codeName": "IL",
+    "name": "Israel"
+  },
+  {
+    "url": "PNG/IM@2x.png?raw=true",
+    "codeName": "IM",
+    "name": "Isle of Man"
+  },
+  {
+    "url": "PNG/IN@2x.png?raw=true",
+    "codeName": "IN",
+    "name": "India"
+  },
+  {
+    "url": "PNG/IO@2x.png?raw=true",
+    "codeName": "IO",
+    "name": "British Indian Ocean Territory"
+  },
+  {
+    "url": "PNG/IQ@2x.png?raw=true",
+    "codeName": "IQ",
+    "name": "Iraq"
+  },
+  {
+    "url": "PNG/IR@2x.png?raw=true",
+    "codeName": "IR",
+    "name": "Iran"
+  },
+  {
+    "url": "PNG/IS@2x.png?raw=true",
+    "codeName": "IS",
+    "name": "Iceland"
+  },
+  {
+    "url": "PNG/IT@2x.png?raw=true",
+    "codeName": "IT",
+    "name": "Italy"
+  },
+  {
+    "url": "PNG/JE@2x.png?raw=true",
+    "codeName": "JE",
+    "name": "Jersey"
+  },
+  {
+    "url": "PNG/JM@2x.png?raw=true",
+    "codeName": "JM",
+    "name": "Jamaica"
+  },
+  {
+    "url": "PNG/JO@2x.png?raw=true",
+    "codeName": "JO",
+    "name": "Jordan"
+  },
+  {
+    "url": "PNG/JP@2x.png?raw=true",
+    "codeName": "JP",
+    "name": "Japan"
+  },
+  {
+    "url": "PNG/KE@2x.png?raw=true",
+    "codeName": "KE",
+    "name": "Kenya"
+  },
+  {
+    "url": "PNG/KG@2x.png?raw=true",
+    "codeName": "KG",
+    "name": "Kyrgyzstan"
+  },
+  {
+    "url": "PNG/KH@2x.png?raw=true",
+    "codeName": "KH",
+    "name": "Cambodia"
+  },
+  {
+    "url": "PNG/KI@2x.png?raw=true",
+    "codeName": "KI",
+    "name": "Kiribati"
+  },
+  {
+    "url": "PNG/KM@2x.png?raw=true",
+    "codeName": "KM",
+    "name": "Comoros"
+  },
+  {
+    "url": "PNG/KN@2x.png?raw=true",
+    "codeName": "KN",
+    "name": "St. Kitts & Nevis"
+  },
+  {
+    "url": "PNG/KP@2x.png?raw=true",
+    "codeName": "KP",
+    "name": "North Korea"
+  },
+  {
+    "url": "PNG/KR@2x.png?raw=true",
+    "codeName": "KR",
+    "name": "South Korea"
+  },
+  {
+    "url": "PNG/KW@2x.png?raw=true",
+    "codeName": "KW",
+    "name": "Kuwait"
+  },
+  {
+    "url": "PNG/KY@2x.png?raw=true",
+    "codeName": "KY",
+    "name": "Cayman Islands"
+  },
+  {
+    "url": "PNG/KZ@2x.png?raw=true",
+    "codeName": "KZ",
+    "name": "Kazakhstan"
+  },
+  {
+    "url": "PNG/LA@2x.png?raw=true",
+    "codeName": "LA",
+    "name": "Laos"
+  },
+  {
+    "url": "PNG/LB@2x.png?raw=true",
+    "codeName": "LB",
+    "name": "Lebanon"
+  },
+  {
+    "url": "PNG/LC@2x.png?raw=true",
+    "codeName": "LC",
+    "name": "St. Lucia"
+  },
+  {
+    "url": "PNG/LGBT@2x.png?raw=true",
+    "codeName": "LGBT",
+    "name": "Pride"
+  },
+  {
+    "url": "PNG/LI@2x.png?raw=true",
+    "codeName": "LI",
+    "name": "Liechtenstein"
+  },
+  {
+    "url": "PNG/LK@2x.png?raw=true",
+    "codeName": "LK",
+    "name": "Sri Lanka"
+  },
+  {
+    "url": "PNG/LR@2x.png?raw=true",
+    "codeName": "LR",
+    "name": "Liberia"
+  },
+  {
+    "url": "PNG/LS@2x.png?raw=true",
+    "codeName": "LS",
+    "name": "Lesotho"
+  },
+  {
+    "url": "PNG/LT@2x.png?raw=true",
+    "codeName": "LT",
+    "name": "Lithuania"
+  },
+  {
+    "url": "PNG/LU@2x.png?raw=true",
+    "codeName": "LU",
+    "name": "Luxembourg"
+  },
+  {
+    "url": "PNG/LV@2x.png?raw=true",
+    "codeName": "LV",
+    "name": "Latvia"
+  },
+  {
+    "url": "PNG/LY@2x.png?raw=true",
+    "codeName": "LY",
+    "name": "Libya"
+  },
+  {
+    "url": "PNG/MA@2x.png?raw=true",
+    "codeName": "MA",
+    "name": "Morocco"
+  },
+  {
+    "url": "PNG/MC@2x.png?raw=true",
+    "codeName": "MC",
+    "name": "Monaco"
+  },
+  {
+    "url": "PNG/MD@2x.png?raw=true",
+    "codeName": "MD",
+    "name": "Moldova"
+  },
+  {
+    "url": "PNG/ME@2x.png?raw=true",
+    "codeName": "ME",
+    "name": "Montenegro"
+  },
+  {
+    "url": "PNG/MF@2x.png?raw=true",
+    "codeName": "MF",
+    "name": "St. Martin"
+  },
+  {
+    "url": "PNG/MG@2x.png?raw=true",
+    "codeName": "MG",
+    "name": "Madagascar"
+  },
+  {
+    "url": "PNG/MH@2x.png?raw=true",
+    "codeName": "MH",
+    "name": "Marshall Islands"
+  },
+  {
+    "url": "PNG/MK@2x.png?raw=true",
+    "codeName": "MK",
+    "name": "Macedonia"
+  },
+  {
+    "url": "PNG/ML@2x.png?raw=true",
+    "codeName": "ML",
+    "name": "Mali"
+  },
+  {
+    "url": "PNG/MM@2x.png?raw=true",
+    "codeName": "MM",
+    "name": "Myanmar (Burma)"
+  },
+  {
+    "url": "PNG/MN@2x.png?raw=true",
+    "codeName": "MN",
+    "name": "Mongolia"
+  },
+  {
+    "url": "PNG/MO@2x.png?raw=true",
+    "codeName": "MO",
+    "name": "Macau (China)"
+  },
+  {
+    "url": "PNG/MP@2x.png?raw=true",
+    "codeName": "MP",
+    "name": "Northern Mariana Islands"
+  },
+  {
+    "url": "PNG/MQ@2x.png?raw=true",
+    "codeName": "MQ",
+    "name": "Martinique"
+  },
+  {
+    "url": "PNG/MR@2x.png?raw=true",
+    "codeName": "MR",
+    "name": "Mauritania"
+  },
+  {
+    "url": "PNG/MS@2x.png?raw=true",
+    "codeName": "MS",
+    "name": "Montserrat"
+  },
+  {
+    "url": "PNG/MT@2x.png?raw=true",
+    "codeName": "MT",
+    "name": "Malta"
+  },
+  {
+    "url": "PNG/MU@2x.png?raw=true",
+    "codeName": "MU",
+    "name": "Mauritius"
+  },
+  {
+    "url": "PNG/MV@2x.png?raw=true",
+    "codeName": "MV",
+    "name": "Maldives"
+  },
+  {
+    "url": "PNG/MW@2x.png?raw=true",
+    "codeName": "MW",
+    "name": "Malawi"
+  },
+  {
+    "url": "PNG/MX@2x.png?raw=true",
+    "codeName": "MX",
+    "name": "Mexico"
+  },
+  {
+    "url": "PNG/MY@2x.png?raw=true",
+    "codeName": "MY",
+    "name": "Malaysia"
+  },
+  {
+    "url": "PNG/MZ@2x.png?raw=true",
+    "codeName": "MZ",
+    "name": "Mozambique"
+  },
+  {
+    "url": "PNG/NA@2x.png?raw=true",
+    "codeName": "NA",
+    "name": "Namibia"
+  },
+  {
+    "url": "PNG/NC@2x.png?raw=true",
+    "codeName": "NC",
+    "name": "New Caledonia"
+  },
+  {
+    "url": "PNG/NE@2x.png?raw=true",
+    "codeName": "NE",
+    "name": "Niger"
+  },
+  {
+    "url": "PNG/NF@2x.png?raw=true",
+    "codeName": "NF",
+    "name": "Norfolk Island"
+  },
+  {
+    "url": "PNG/NG@2x.png?raw=true",
+    "codeName": "NG",
+    "name": "Nigeria"
+  },
+  {
+    "url": "PNG/NI@2x.png?raw=true",
+    "codeName": "NI",
+    "name": "Nicaragua"
+  },
+  {
+    "url": "PNG/NL@2x.png?raw=true",
+    "codeName": "NL",
+    "name": "Netherlands"
+  },
+  {
+    "url": "PNG/NO@2x.png?raw=true",
+    "codeName": "NO",
+    "name": "Norway"
+  },
+  {
+    "url": "PNG/NP@2x.png?raw=true",
+    "codeName": "NP",
+    "name": "Nepal"
+  },
+  {
+    "url": "PNG/NR@2x.png?raw=true",
+    "codeName": "NR",
+    "name": "Nauru"
+  },
+  {
+    "url": "PNG/NU@2x.png?raw=true",
+    "codeName": "NU",
+    "name": "Niue"
+  },
+  {
+    "url": "PNG/NZ@2x.png?raw=true",
+    "codeName": "NZ",
+    "name": "New Zealand"
+  },
+  {
+    "url": "PNG/OM@2x.png?raw=true",
+    "codeName": "OM",
+    "name": "Oman"
+  },
+  {
+    "url": "PNG/PA@2x.png?raw=true",
+    "codeName": "PA",
+    "name": "Panama"
+  },
+  {
+    "url": "PNG/PE@2x.png?raw=true",
+    "codeName": "PE",
+    "name": "Peru"
+  },
+  {
+    "url": "PNG/PF@2x.png?raw=true",
+    "codeName": "PF",
+    "name": "French Polynesia"
+  },
+  {
+    "url": "PNG/PG@2x.png?raw=true",
+    "codeName": "PG",
+    "name": "Papua New Guinea"
+  },
+  {
+    "url": "PNG/PH@2x.png?raw=true",
+    "codeName": "PH",
+    "name": "Philippines"
+  },
+  {
+    "url": "PNG/PK@2x.png?raw=true",
+    "codeName": "PK",
+    "name": "Pakistan"
+  },
+  {
+    "url": "PNG/PL@2x.png?raw=true",
+    "codeName": "PL",
+    "name": "Poland"
+  },
+  {
+    "url": "PNG/PM@2x.png?raw=true",
+    "codeName": "PM",
+    "name": "St. Pierre & Miquelon"
+  },
+  {
+    "url": "PNG/PN@2x.png?raw=true",
+    "codeName": "PN",
+    "name": "Pitcairn Islands"
+  },
+  {
+    "url": "PNG/PR@2x.png?raw=true",
+    "codeName": "PR",
+    "name": "Puerto Rico"
+  },
+  {
+    "url": "PNG/PS@2x.png?raw=true",
+    "codeName": "PS",
+    "name": "Palestinian Territories"
+  },
+  {
+    "url": "PNG/PT@2x.png?raw=true",
+    "codeName": "PT",
+    "name": "Portugal"
+  },
+  {
+    "url": "PNG/PW@2x.png?raw=true",
+    "codeName": "PW",
+    "name": "Palau"
+  },
+  {
+    "url": "PNG/PY@2x.png?raw=true",
+    "codeName": "PY",
+    "name": "Paraguay"
+  },
+  {
+    "url": "PNG/QA@2x.png?raw=true",
+    "codeName": "QA",
+    "name": "Qatar"
+  },
+  {
+    "url": "PNG/RE@2x.png?raw=true",
+    "codeName": "RE",
+    "name": "Réunion"
+  },
+  {
+    "url": "PNG/RO@2x.png?raw=true",
+    "codeName": "RO",
+    "name": "Romania"
+  },
+  {
+    "url": "PNG/RS@2x.png?raw=true",
+    "codeName": "RS",
+    "name": "Serbia"
+  },
+  {
+    "url": "PNG/RU@2x.png?raw=true",
+    "codeName": "RU",
+    "name": "Russia"
+  },
+  {
+    "url": "PNG/RW@2x.png?raw=true",
+    "codeName": "RW",
+    "name": "Rwanda"
+  },
+  {
+    "url": "PNG/SA@2x.png?raw=true",
+    "codeName": "SA",
+    "name": "Saudi Arabia"
+  },
+  {
+    "url": "PNG/SB@2x.png?raw=true",
+    "codeName": "SB",
+    "name": "Solomon Islands"
+  },
+  {
+    "url": "PNG/SC@2x.png?raw=true",
+    "codeName": "SC",
+    "name": "Seychelles"
+  },
+  {
+    "url": "PNG/SD@2x.png?raw=true",
+    "codeName": "SD",
+    "name": "Sudan"
+  },
+  {
+    "url": "PNG/SE@2x.png?raw=true",
+    "codeName": "SE",
+    "name": "Sweden"
+  },
+  {
+    "url": "PNG/SG@2x.png?raw=true",
+    "codeName": "SG",
+    "name": "Singapore"
+  },
+  {
+    "url": "PNG/SH@2x.png?raw=true",
+    "codeName": "SH",
+    "name": "St. Helena"
+  },
+  {
+    "url": "PNG/SI@2x.png?raw=true",
+    "codeName": "SI",
+    "name": "Slovenia"
+  },
+  {
+    "url": "PNG/SJ@2x.png?raw=true",
+    "codeName": "SJ",
+    "name": "Svalbard & Jan Mayen"
+  },
+  {
+    "url": "PNG/SK@2x.png?raw=true",
+    "codeName": "SK",
+    "name": "Slovakia"
+  },
+  {
+    "url": "PNG/SL@2x.png?raw=true",
+    "codeName": "SL",
+    "name": "Sierra Leone"
+  },
+  {
+    "url": "PNG/SM@2x.png?raw=true",
+    "codeName": "SM",
+    "name": "San Marino"
+  },
+  {
+    "url": "PNG/SN@2x.png?raw=true",
+    "codeName": "SN",
+    "name": "Senegal"
+  },
+  {
+    "url": "PNG/SO@2x.png?raw=true",
+    "codeName": "SO",
+    "name": "Somalia"
+  },
+  {
+    "url": "PNG/SR@2x.png?raw=true",
+    "codeName": "SR",
+    "name": "Suriname"
+  },
+  {
+    "url": "PNG/SS@2x.png?raw=true",
+    "codeName": "SS",
+    "name": "South Sudan"
+  },
+  {
+    "url": "PNG/ST@2x.png?raw=true",
+    "codeName": "ST",
+    "name": "São Tomé & Príncipe"
+  },
+  {
+    "url": "PNG/SV@2x.png?raw=true",
+    "codeName": "SV",
+    "name": "El Salvador"
+  },
+  {
+    "url": "PNG/SX@2x.png?raw=true",
+    "codeName": "SX",
+    "name": "Sint Maarten"
+  },
+  {
+    "url": "PNG/SY@2x.png?raw=true",
+    "codeName": "SY",
+    "name": "Syria"
+  },
+  {
+    "url": "PNG/SZ@2x.png?raw=true",
+    "codeName": "SZ",
+    "name": "Swaziland"
+  },
+  {
+    "url": "PNG/TC@2x.png?raw=true",
+    "codeName": "TC",
+    "name": "Turks & Caicos Islands"
+  },
+  {
+    "url": "PNG/TD@2x.png?raw=true",
+    "codeName": "TD",
+    "name": "Chad"
+  },
+  {
+    "url": "PNG/TF@2x.png?raw=true",
+    "codeName": "TF",
+    "name": "French Southern Territories"
+  },
+  {
+    "url": "PNG/TG@2x.png?raw=true",
+    "codeName": "TG",
+    "name": "Togo"
+  },
+  {
+    "url": "PNG/TH@2x.png?raw=true",
+    "codeName": "TH",
+    "name": "Thailand"
+  },
+  {
+    "url": "PNG/TJ@2x.png?raw=true",
+    "codeName": "TJ",
+    "name": "Tajikistan"
+  },
+  {
+    "url": "PNG/TK@2x.png?raw=true",
+    "codeName": "TK",
+    "name": "Tokelau"
+  },
+  {
+    "url": "PNG/TL@2x.png?raw=true",
+    "codeName": "TL",
+    "name": "Timor-Leste"
+  },
+  {
+    "url": "PNG/TM@2x.png?raw=true",
+    "codeName": "TM",
+    "name": "Turkmenistan"
+  },
+  {
+    "url": "PNG/TN@2x.png?raw=true",
+    "codeName": "TN",
+    "name": "Tunisia"
+  },
+  {
+    "url": "PNG/TO@2x.png?raw=true",
+    "codeName": "TO",
+    "name": "Tonga"
+  },
+  {
+    "url": "PNG/TR@2x.png?raw=true",
+    "codeName": "TR",
+    "name": "Turkey"
+  },
+  {
+    "url": "PNG/TT@2x.png?raw=true",
+    "codeName": "TT",
+    "name": "Trinidad & Tobago"
+  },
+  {
+    "url": "PNG/TV@2x.png?raw=true",
+    "codeName": "TV",
+    "name": "Tuvalu"
+  },
+  {
+    "url": "PNG/TW@2x.png?raw=true",
+    "codeName": "TW",
+    "name": "Taiwan"
+  },
+  {
+    "url": "PNG/TZ@2x.png?raw=true",
+    "codeName": "TZ",
+    "name": "Tanzania"
+  },
+  {
+    "url": "PNG/UA@2x.png?raw=true",
+    "codeName": "UA",
+    "name": "Ukraine"
+  },
+  {
+    "url": "PNG/UG@2x.png?raw=true",
+    "codeName": "UG",
+    "name": "Uganda"
+  },
+  {
+    "url": "PNG/UM@2x.png?raw=true",
+    "codeName": "UM",
+    "name": "U.S. Outlying Islands"
+  },
+  {
+    "url": "PNG/US@2x.png?raw=true",
+    "codeName": "US",
+    "name": "United States"
+  },
+  {
+    "url": "PNG/US-CA@2x.png?raw=true",
+    "codeName": "US-CA",
+    "name": "California"
+  },
+  {
+    "url": "PNG/UY@2x.png?raw=true",
+    "codeName": "UY",
+    "name": "Uruguay"
+  },
+  {
+    "url": "PNG/UZ@2x.png?raw=true",
+    "codeName": "UZ",
+    "name": "Uzbekistan"
+  },
+  {
+    "url": "PNG/VA@2x.png?raw=true",
+    "codeName": "VA",
+    "name": "Vatican City"
+  },
+  {
+    "url": "PNG/VC@2x.png?raw=true",
+    "codeName": "VC",
+    "name": "St. Vincent & Grenadines"
+  },
+  {
+    "url": "PNG/VE@2x.png?raw=true",
+    "codeName": "VE",
+    "name": "Venezuela"
+  },
+  {
+    "url": "PNG/VG@2x.png?raw=true",
+    "codeName": "VG",
+    "name": "British Virgin Islands"
+  },
+  {
+    "url": "PNG/VI@2x.png?raw=true",
+    "codeName": "VI",
+    "name": "U.S. Virgin Islands"
+  },
+  {
+    "url": "PNG/VN@2x.png?raw=true",
+    "codeName": "VN",
+    "name": "Vietnam"
+  },
+  {
+    "url": "PNG/VU@2x.png?raw=true",
+    "codeName": "VU",
+    "name": "Vanuatu"
+  },
+  {
+    "url": "PNG/WF@2x.png?raw=true",
+    "codeName": "WF",
+    "name": "Wallis & Futuna"
+  },
+  {
+    "url": "PNG/WS@2x.png?raw=true",
+    "codeName": "WS",
+    "name": "Samoa"
+  },
+  {
+    "url": "PNG/XK@2x.png?raw=true",
+    "codeName": "XK",
+    "name": "Kosovo"
+  },
+  {
+    "url": "PNG/YE@2x.png?raw=true",
+    "codeName": "YE",
+    "name": "Yemen"
+  },
+  {
+    "url": "PNG/YT@2x.png?raw=true",
+    "codeName": "YT",
+    "name": "Mayotte"
+  },
+  {
+    "url": "PNG/ZA@2x.png?raw=true",
+    "codeName": "ZA",
+    "name": "South Africa"
+  },
+  {
+    "url": "PNG/ZM@2x.png?raw=true",
+    "codeName": "ZM",
+    "name": "Zambia"
+  },
+  {
+    "url": "PNG/ZW@2x.png?raw=true",
+    "codeName": "ZW",
+    "name": "Zimbabwe"
+  }
+]
